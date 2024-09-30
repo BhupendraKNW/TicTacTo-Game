@@ -4,6 +4,7 @@ const newGameBtn=document.querySelector(".btn")
 
 let currentPlayer;
 let gameGrid;
+let begin;
 
 const winningPositions=[
     [0,1,2],
